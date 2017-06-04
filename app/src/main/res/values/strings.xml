@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nulls En Kotlin</string>
+    <string name="labelMain">Kotlin: Trabajando con Nulls</string>
+    <string name="labelKtlBtn">Probar Null con Kotlin</string>
+    <string name="labelBtnAbreEjemploKtl">Abrir Ejemplo Kotlin</string>
+    <string name="lblBtnTestNullJava">Probar Null con Java</string>
+    <string name="lblBtnTestClasses">Probar Clase Kotlin</string>
+</resources>
